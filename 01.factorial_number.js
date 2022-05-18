@@ -6,4 +6,4 @@ function factorial(number) {
     return num;
 }
 const factorialNumber = factorial(9);
-console.log("the factorial number of [9]", factorialNumber);
+console.log("The factorial number of [9]", factorialNumber);
